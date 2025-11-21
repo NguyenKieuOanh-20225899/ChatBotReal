@@ -1,24 +1,26 @@
 paths:
-  chunks_dir: "data/chunks"              # mỗi file *.json = list[chunk]
-  kb_dir: "data/knowledge_base"          # để sinh dev set nếu cần
+  chunks_dir: "data/chunks"
+  kb_dir: "data/knowledge_base"
   artifacts_dir: "experiments/artifacts"
   devset_path: "experiments/devset/dev_100.jsonl"
 
 index:
-  embedding_model: "intfloat/multilingual-e5-base"   # có thể đổi sau
-  faiss_nlist: 4096
-  faiss_nprobe: 16
+  embedding_model: "intfloat/multilingual-e5-base"
+  faiss_nlist: 100 # Giảm xuống nếu dữ liệu ít (<10k chunks) để tránh warning
+  faiss_nprobe: 10
 
 retrieval:
   bm25_topk: 50
   dense_topk: 50
   rrf_K: 60
-  final_topk: 10
+  final_topk: 20 # Tăng lên chút để Reranker có nhiều lựa chọn hơn
 
 reranker:
-  model_name: "cross-encoder/ms-marco-MiniLM-L-6-v2" # baseline
+  # Model này hỗ trợ Multilingual tốt hơn bản gốc ms-marco
+  model_name: "amberoad/bert-multilingual-passage-reranking-msmarco" 
+  # Hoặc dùng: "BAAI/bge-reranker-v2-m3" (Rất mạnh nhưng nặng hơn)
   apply: true
-  keep_topk: 10
+  keep_topk: 5
 
 thresholds:
-  answerability_min_score: 0.25
+  answerability_min_score: 0.5 # Ngưỡng tin cậy
