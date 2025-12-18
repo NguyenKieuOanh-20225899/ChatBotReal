@@ -26,11 +26,11 @@ Thumbs.db
 .ipynb_checkpoints/
 
 # ===== Data folders (optional) =====
-data/raw/
-data/cleaned/
-data/chunks/
-data/vector_db/
-data/tmp/
+# data/raw/
+# data/cleaned/
+# data/chunks/
+# data/vector_db/
+# data/tmp/
 
 # Nếu bạn muốn commit metadata JSON, hãy giữ lại dòng này:
 !data/metadata/
