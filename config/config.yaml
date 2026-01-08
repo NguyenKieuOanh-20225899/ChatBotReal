@@ -2,10 +2,10 @@ paths:
   chunks_dir: "data/chunks"
   kb_dir: "data/knowledge_base"
   artifacts_dir: "data/artifacts"
-  devset_path: "experiments/devset/dev_100.jsonl"
+  vector_db_dir: "data/vector_db"
 
 index:
-  embedding_model: "intfloat/multilingual-e5-base"
+  embedding_model: "models/text-embedding-004"
   faiss_nlist: 100
   faiss_nprobe: 10
 

@@ -1,121 +1,3135 @@
 {
   "nodes": [
     {
+      "id": "Điều 106",
+      "topic": "Điều kiện chuyển nhượng quyền sử dụng đất",
+      "type": "Article",
+      "sources": [
+        " 02_2004_NQ-HĐTP.pdf",
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 127",
+      "topic": "Ly hôn có yếu tố nước ngoài",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 146",
+      "topic": "Đang cập nhật",
+      "type": "Article",
+      "sources": []
+    },
+    {
+      "id": "Điều 50",
+      "topic": "Thỏa thuận tài sản vô hiệu",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 136",
+      "topic": "Đang cập nhật",
+      "type": "Article",
+      "sources": []
+    },
+    {
+      "id": "Điều 140",
+      "topic": "Đang cập nhật",
+      "type": "Article",
+      "sources": []
+    },
+    {
+      "id": "Điều 145",
+      "topic": "Đang cập nhật",
+      "type": "Article",
+      "sources": []
+    },
+    {
+      "id": "Điều 379",
+      "topic": "Đang cập nhật",
+      "type": "Article",
+      "sources": []
+    },
+    {
       "id": "Điều 1",
-      "topic": "Phạm vi điều chỉnh"
+      "topic": "Nghị quyết hôn nhân gia đình",
+      "type": "Article",
+      "sources": [
+        "01_2024_NQ-HĐTP.pdf",
+        "90.2014.TT.BTC.pdf",
+        " 64_2017_TT-BTC.pdf",
+        "01.2016.TTLT.TANDTC.VKSNDTC.BTP.pdf",
+        " 35_2013_QĐ-UBND.pdf",
+        "VanBanGoc_52.2014.QH13.pdf",
+        "117_2024_NĐ-CP.pdf",
+        "43_2004_QĐ-UB.pdf",
+        "50_2017_QĐ-UBND.pdf"
+      ]
     },
     {
       "id": "Điều 2",
-      "topic": "Nguyên tắc cơ bản của chế độ hôn nhân và gia đình"
-    },
-    {
-      "id": "Điều 3",
-      "topic": "Giải thích từ ngữ"
-    },
-    {
-      "id": "Điều 4",
-      "topic": "Trách nhiệm của Nhà nước và xã hội đối với hôn nhân và gia đình"
+      "topic": "Quyền yêu cầu ly hôn",
+      "type": "Article",
+      "sources": [
+        "01_2024_NQ-HĐTP.pdf",
+        "90.2014.TT.BTC.pdf",
+        " 64_2017_TT-BTC.pdf",
+        "01.2016.TTLT.TANDTC.VKSNDTC.BTP.pdf",
+        " 35_2013_QĐ-UBND.pdf",
+        "VanBanGoc_52.2014.QH13.pdf",
+        "117_2024_NĐ-CP.pdf",
+        "43_2004_QĐ-UB.pdf",
+        "50_2017_QĐ-UBND.pdf"
+      ]
     },
     {
       "id": "Điều 5",
-      "topic": "Bảo vệ chế độ hôn nhân và gia đình và các hành vi cấm"
+      "topic": "Hạn chế phân chia di sản",
+      "type": "Article",
+      "sources": [
+        "01_2024_NQ-HĐTP.pdf",
+        "90.2014.TT.BTC.pdf",
+        "01.2016.TTLT.TANDTC.VKSNDTC.BTP.pdf",
+        "VanBanGoc_52.2014.QH13.pdf",
+        "43_2004_QĐ-UB.pdf"
+      ]
+    },
+    {
+      "id": "Điều 51",
+      "topic": "Quyền yêu cầu ly hôn",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 3",
+      "topic": "Thuận tình ly hôn",
+      "type": "Article",
+      "sources": [
+        "01_2024_NQ-HĐTP.pdf",
+        "90.2014.TT.BTC.pdf",
+        " 64_2017_TT-BTC.pdf",
+        "01.2016.TTLT.TANDTC.VKSNDTC.BTP.pdf",
+        "VanBanGoc_52.2014.QH13.pdf",
+        "117_2024_NĐ-CP.pdf",
+        "43_2004_QĐ-UB.pdf",
+        "50_2017_QĐ-UBND.pdf"
+      ]
+    },
+    {
+      "id": "Điều 55",
+      "topic": "Thuận tình ly hôn",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 4",
+      "topic": "Điều kiện ly hôn",
+      "type": "Article",
+      "sources": [
+        "01_2024_NQ-HĐTP.pdf",
+        "90.2014.TT.BTC.pdf",
+        "01.2016.TTLT.TANDTC.VKSNDTC.BTP.pdf",
+        "VanBanGoc_52.2014.QH13.pdf",
+        "117_2024_NĐ-CP.pdf",
+        "43_2004_QĐ-UB.pdf"
+      ]
+    },
+    {
+      "id": "Điều 56",
+      "topic": "Ly hôn theo yêu cầu một bên",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf",
+        "117_2024_NĐ-CP.pdf"
+      ]
+    },
+    {
+      "id": "Điều 66",
+      "topic": "Chia tài sản vợ chồng khi một bên chết",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf",
+        "117_2024_NĐ-CP.pdf"
+      ]
     },
     {
       "id": "Điều 6",
-      "topic": "Áp dụng Bộ luật Dân sự và các luật khác có liên quan"
+      "topic": "Giải quyết nuôi con khi ly hôn",
+      "type": "Article",
+      "sources": [
+        "01_2024_NQ-HĐTP.pdf",
+        "90.2014.TT.BTC.pdf",
+        "01.2016.TTLT.TANDTC.VKSNDTC.BTP.pdf",
+        "VanBanGoc_52.2014.QH13.pdf",
+        "117_2024_NĐ-CP.pdf",
+        "43_2004_QĐ-UB.pdf"
+      ]
+    },
+    {
+      "id": "Điều 81",
+      "topic": "Quy định về nuôi con",
+      "type": "Article",
+      "sources": [
+        "01_2024_NQ-HĐTP.pdf",
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 208",
+      "topic": "Đang cập nhật",
+      "type": "Article",
+      "sources": []
     },
     {
       "id": "Điều 7",
-      "topic": "Áp dụng tập quán về hôn nhân và gia đình"
+      "topic": "Nghĩa vụ cấp dưỡng cho con",
+      "type": "Article",
+      "sources": [
+        "01_2024_NQ-HĐTP.pdf",
+        "01.2016.TTLT.TANDTC.VKSNDTC.BTP.pdf",
+        "VanBanGoc_52.2014.QH13.pdf",
+        "117_2024_NĐ-CP.pdf",
+        "43_2004_QĐ-UB.pdf"
+      ]
+    },
+    {
+      "id": "Điều 82",
+      "topic": "Nghĩa vụ và quyền của cha mẹ sau ly hôn",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
     },
     {
       "id": "Điều 8",
-      "topic": "Điều kiện kết hôn và không công nhận hôn nhân đồng giới"
+      "topic": "Hạn chế quyền của cha mẹ",
+      "type": "Article",
+      "sources": [
+        "01_2024_NQ-HĐTP.pdf",
+        "01.2016.TTLT.TANDTC.VKSNDTC.BTP.pdf",
+        "VanBanGoc_52.2014.QH13.pdf",
+        "43_2004_QĐ-UB.pdf"
+      ]
+    },
+    {
+      "id": "Điều 85",
+      "topic": "Điều kiện hạn chế quyền nuôi con",
+      "type": "Article",
+      "sources": [
+        "01_2024_NQ-HĐTP.pdf",
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 134",
+      "topic": "Đang cập nhật",
+      "type": "Article",
+      "sources": []
     },
     {
       "id": "Điều 9",
-      "topic": "Đăng ký kết hôn"
+      "topic": "Thẩm quyền giải quyết hôn nhân gia đình",
+      "type": "Article",
+      "sources": [
+        "01_2024_NQ-HĐTP.pdf",
+        "01.2016.TTLT.TANDTC.VKSNDTC.BTP.pdf",
+        "VanBanGoc_52.2014.QH13.pdf",
+        "43_2004_QĐ-UB.pdf"
+      ]
+    },
+    {
+      "id": "Điều 39",
+      "topic": "Thời điểm chia tài sản chung",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 469",
+      "topic": "Đang cập nhật",
+      "type": "Article",
+      "sources": []
     },
     {
       "id": "Điều 10",
-      "topic": "Người có quyền yêu cầu hủy việc kết hôn trái pháp luật"
+      "topic": "Giải quyết ly hôn với người nước ngoài",
+      "type": "Article",
+      "sources": [
+        "01_2024_NQ-HĐTP.pdf",
+        "VanBanGoc_52.2014.QH13.pdf",
+        "43_2004_QĐ-UB.pdf"
+      ]
     },
     {
       "id": "Điều 11",
-      "topic": "Xử lý việc kết hôn trái pháp luật"
+      "topic": "Án phí hôn nhân gia đình",
+      "type": "Article",
+      "sources": [
+        "01_2024_NQ-HĐTP.pdf",
+        "VanBanGoc_52.2014.QH13.pdf",
+        "43_2004_QĐ-UB.pdf"
+      ]
+    },
+    {
+      "id": "Điều 26",
+      "topic": "Đại diện vợ chồng trong giao dịch tài sản chung",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
     },
     {
       "id": "Điều 12",
-      "topic": "Hậu quả pháp lý của việc hủy kết hôn trái pháp luật"
+      "topic": "Hiệu lực thi hành nghị quyết",
+      "type": "Article",
+      "sources": [
+        "01_2024_NQ-HĐTP.pdf",
+        "01.2016.TTLT.TANDTC.VKSNDTC.BTP.pdf",
+        "VanBanGoc_52.2014.QH13.pdf",
+        "43_2004_QĐ-UB.pdf"
+      ]
+    },
+    {
+      "id": "Điều 247",
+      "topic": "Sở hữu chung của vợ chồng",
+      "type": "Article",
+      "sources": [
+        "02_2000_NQ-HĐTP.pdf"
+      ]
+    },
+    {
+      "id": "Điều 27",
+      "topic": "Trách nhiệm tài sản của vợ chồng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 32",
+      "topic": "Giao dịch với người thứ ba ngay tình",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 31",
+      "topic": "Giao dịch nhà ở chung",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 63",
+      "topic": "Quyền lưu cư khi ly hôn",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 64",
+      "topic": "Chia tài sản chung của vợ chồng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 36",
+      "topic": "Tài sản chung trong kinh doanh",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 46",
+      "topic": "Nhập tài sản riêng vào chung",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 88",
+      "topic": "Xác định cha mẹ",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 89",
+      "topic": "Xác định cha mẹ con",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 90",
+      "topic": "Quyền nhận cha mẹ",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 92",
+      "topic": "Xác định cha mẹ con",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 95",
+      "topic": "Điều kiện mang thai hộ nhân đạo",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 96",
+      "topic": "Thỏa thuận mang thai hộ nhân đạo",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 97",
+      "topic": "Quyền và nghĩa vụ mang thai hộ",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 98",
+      "topic": "Quyền và nghĩa vụ mang thai hộ",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
     },
     {
       "id": "Điều 13",
-      "topic": "Xử lý việc đăng ký kết hôn không đúng thẩm quyền"
-    },
-    {
-      "id": "Điều 14",
-      "topic": "Giải quyết hậu quả của việc chung sống không đăng ký kết hôn"
+      "topic": "Xử lý đăng ký kết hôn trái thẩm quyền",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf",
+        "43_2004_QĐ-UB.pdf"
+      ]
     },
     {
       "id": "Điều 15",
-      "topic": "Quyền, nghĩa vụ của cha mẹ và con khi chung sống không đăng ký"
+      "topic": "Quyền và nghĩa vụ của cha mẹ và con.",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf",
+        "117_2024_NĐ-CP.pdf",
+        "43_2004_QĐ-UB.pdf"
+      ]
     },
     {
       "id": "Điều 16",
-      "topic": "Giải quyết tài sản khi chung sống không đăng ký kết hôn"
+      "topic": "Quan hệ tài sản chưa đăng ký kết hôn",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf",
+        "43_2004_QĐ-UB.pdf"
+      ]
+    },
+    {
+      "id": "Điều 14",
+      "topic": "Giải quyết hôn nhân không đăng ký",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf",
+        "43_2004_QĐ-UB.pdf"
+      ]
+    },
+    {
+      "id": "Điều 59",
+      "topic": "Nguyên tắc chia tài sản khi ly hôn",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 110",
+      "topic": "Nghĩa vụ cấp dưỡng của cha mẹ",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 115",
+      "topic": "Nghĩa vụ cấp dưỡng sau ly hôn",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 60",
+      "topic": "Giải quyết tài sản khi ly hôn",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf",
+        "117_2024_NĐ-CP.pdf"
+      ]
     },
     {
       "id": "Điều 17",
-      "topic": "Bình đẳng về quyền, nghĩa vụ giữa vợ, chồng"
+      "topic": "Bình đẳng vợ chồng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf",
+        "43_2004_QĐ-UB.pdf"
+      ]
     },
     {
       "id": "Điều 18",
-      "topic": "Bảo vệ quyền, nghĩa vụ nhân thân của vợ, chồng"
+      "topic": "Bảo vệ quyền nhân thân",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
     },
     {
       "id": "Điều 19",
-      "topic": "Tình nghĩa vợ chồng và nghĩa vụ sống chung"
+      "topic": "Nghĩa vụ vợ chồng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf",
+        "117_2024_NĐ-CP.pdf"
+      ]
     },
     {
       "id": "Điều 20",
-      "topic": "Lựa chọn nơi cư trú của vợ chồng"
+      "topic": "Nơi cư trú của vợ chồng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 21",
+      "topic": "Trách nhiệm tôn trọng danh dự",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 22",
+      "topic": "Quyền tự do tín ngưỡng tôn giáo",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf",
+        "117_2024_NĐ-CP.pdf"
+      ]
+    },
+    {
+      "id": "Điều 23",
+      "topic": "Quyền và nghĩa vụ vợ chồng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 24",
+      "topic": "Đại diện giữa vợ chồng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 25",
+      "topic": "Đại diện kinh doanh của vợ chồng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 30",
+      "topic": "Quyền và nghĩa vụ của vợ chồng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 37",
+      "topic": "Nghĩa vụ tài sản của vợ chồng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf",
+        "117_2024_NĐ-CP.pdf"
+      ]
+    },
+    {
+      "id": "Điều 28",
+      "topic": "Chế độ tài sản của vợ chồng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf",
+        "117_2024_NĐ-CP.pdf"
+      ]
+    },
+    {
+      "id": "Điều 33",
+      "topic": "Tài sản chung của vợ chồng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 47",
+      "topic": "Thỏa thuận tài sản vợ chồng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 29",
+      "topic": "Chế độ tài sản của vợ chồng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 40",
+      "topic": "Hậu quả chia tài sản chung",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 34",
+      "topic": "Đăng ký tài sản chung vợ chồng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 35",
+      "topic": "Quy định về tài sản chung của vợ chồng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf",
+        "117_2024_NĐ-CP.pdf"
+      ]
+    },
+    {
+      "id": "Điều 38",
+      "topic": "Chia tài sản chung hôn nhân",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 42",
+      "topic": "Chia tài sản chung hôn nhân vô hiệu",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 41",
+      "topic": "Chấm dứt chia tài sản chung hôn nhân",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 43",
+      "topic": "Tài sản riêng của vợ chồng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 44",
+      "topic": "Quyền sở hữu tài sản riêng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 45",
+      "topic": "Nghĩa vụ tài sản riêng của vợ chồng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 48",
+      "topic": "Thỏa thuận chế độ tài sản vợ chồng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 49",
+      "topic": "Sửa đổi thỏa thuận tài sản vợ chồng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 52",
+      "topic": "Khuyến khích hòa giải cơ sở",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 53",
+      "topic": "Thụ lý đơn ly hôn",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf",
+        "117_2024_NĐ-CP.pdf"
+      ]
+    },
+    {
+      "id": "Điều 54",
+      "topic": "Hòa giải ly hôn tại Tòa án",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 57",
+      "topic": "Chấm dứt hôn nhân và trách nhiệm",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 58",
+      "topic": "Quyền và nghĩa vụ sau ly hôn",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 61",
+      "topic": "Chia tài sản khi ly hôn",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 62",
+      "topic": "Chia quyền sử dụng đất khi ly hôn",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 65",
+      "topic": "Thời điểm chấm dứt hôn nhân",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf",
+        "117_2024_NĐ-CP.pdf"
+      ]
+    },
+    {
+      "id": "Điều 67",
+      "topic": "Quan hệ vợ chồng khi chồng/vợ bị tuyên bố đã chết trở về",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 68",
+      "topic": "Bảo vệ quyền cha mẹ và con",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 69",
+      "topic": "Nghĩa vụ và quyền của cha mẹ",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 70",
+      "topic": "Quyền và nghĩa vụ của con",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 71",
+      "topic": "Nghĩa vụ chăm sóc nuôi dưỡng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 72",
+      "topic": "Nghĩa vụ và quyền giáo dục con",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 73",
+      "topic": "Đại diện cho con chưa thành niên",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 74",
+      "topic": "Bồi thường thiệt hại do con gây ra",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 75",
+      "topic": "Quyền và nghĩa vụ của con",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 76",
+      "topic": "Quản lý tài sản của con",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 77",
+      "topic": "Quyền định đoạt tài sản của con",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 78",
+      "topic": "Quyền và nghĩa vụ nuôi con nuôi",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 79",
+      "topic": "Quyền và nghĩa vụ của cha dượng mẹ kế",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 80",
+      "topic": "Quyền và nghĩa vụ gia đình",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 83",
+      "topic": "Nghĩa vụ và quyền của cha mẹ",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 84",
+      "topic": "Thay đổi người nuôi con sau ly hôn",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 86",
+      "topic": "Quyền yêu cầu hạn chế quyền cha mẹ",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 87",
+      "topic": "Hậu quả pháp lý của cha mẹ hạn chế quyền",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 91",
+      "topic": "Quyền nhận con",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 93",
+      "topic": "Xác định cha mẹ trong hỗ trợ sinh sản",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 94",
+      "topic": "Cha mẹ trong mang thai hộ",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 99",
+      "topic": "Giải quyết tranh chấp sinh con hỗ trợ",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 100",
+      "topic": "Xử lý vi phạm sinh sản hỗ trợ",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 101",
+      "topic": "Thẩm quyền xác định cha mẹ con",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 102",
+      "topic": "Quyền xác định cha mẹ con",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 103",
+      "topic": "Quyền và nghĩa vụ gia đình",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 104",
+      "topic": "Quyền và nghĩa vụ của ông bà và cháu",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 105",
+      "topic": "Quyền và nghĩa vụ của anh chị em",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 107",
+      "topic": "Nghĩa vụ cấp dưỡng trong gia đình",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 119",
+      "topic": "Quyền yêu cầu cấp dưỡng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 108",
+      "topic": "Nghĩa vụ cấp dưỡng nhiều người",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 109",
+      "topic": "Nhiều người cấp dưỡng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 111",
+      "topic": "Nghĩa vụ cấp dưỡng của con",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 112",
+      "topic": "Nghĩa vụ cấp dưỡng giữa anh chị em",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 113",
+      "topic": "Nghĩa vụ cấp dưỡng giữa các thế hệ",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 114",
+      "topic": "Nghĩa vụ cấp dưỡng giữa họ hàng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 116",
+      "topic": "Mức cấp dưỡng giữa các bên",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 117",
+      "topic": "Phương thức cấp dưỡng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 118",
+      "topic": "Chấm dứt nghĩa vụ cấp dưỡng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 120",
+      "topic": "Trợ giúp xã hội",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 121",
+      "topic": "Bảo vệ hôn nhân gia đình quốc tế",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 122",
+      "topic": "Áp dụng pháp luật hôn nhân gia đình",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 123",
+      "topic": "Thẩm quyền hôn nhân gia đình",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 124",
+      "topic": "Hợp pháp hóa lãnh sự giấy tờ hôn nhân",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 125",
+      "topic": "Công nhận bản án hôn nhân nước ngoài",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 126",
+      "topic": "Kết hôn có yếu tố nước ngoài",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 128",
+      "topic": "Xác định cha mẹ con có yếu tố nước ngoài",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 129",
+      "topic": "Nghĩa vụ cấp dưỡng quốc tế",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 130",
+      "topic": "Chế độ tài sản của vợ chồng",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 131",
+      "topic": "Điều khoản chuyển tiếp hôn nhân gia đình",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 132",
+      "topic": "Hiệu lực thi hành luật",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 133",
+      "topic": "Quy định chi tiết và hướng dẫn thi hành luật",
+      "type": "Article",
+      "sources": [
+        "VanBanGoc_52.2014.QH13.pdf"
+      ]
+    },
+    {
+      "id": "Điều 4a",
+      "topic": "Đang cập nhật",
+      "type": "Article",
+      "sources": []
+    },
+    {
+      "id": "Điều 4b",
+      "topic": "Đang cập nhật",
+      "type": "Article",
+      "sources": []
+    },
+    {
+      "id": "Điều 17a",
+      "topic": "Xử phạt vi phạm hành chính",
+      "type": "Article",
+      "sources": [
+        "117_2024_NĐ-CP.pdf"
+      ]
+    },
+    {
+      "id": "Điều 87a",
+      "topic": "Đang cập nhật",
+      "type": "Article",
+      "sources": []
     }
   ],
   "edges": [
     {
-      "from": "Điều 7",
+      "from": "Điều 106",
+      "to": "Điều 127",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 106",
+      "to": "Điều 146",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 106",
+      "to": "Điều 50",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 106",
+      "to": "Điều 136",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 106",
+      "to": "Điều 140",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 106",
+      "to": "Điều 145",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 106",
+      "to": "Điều 379",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 106",
+      "to": "Điều 1",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 106",
       "to": "Điều 2",
-      "relation": "liên quan đến"
+      "relation": "dẫn chiếu đến"
     },
     {
-      "from": "Điều 8",
+      "from": "Điều 106",
       "to": "Điều 5",
-      "relation": "liên quan đến"
+      "relation": "dẫn chiếu đến"
     },
     {
-      "from": "Điều 10",
-      "to": "Điều 8",
-      "relation": "liên quan đến"
+      "from": "Điều 2",
+      "to": "Điều 51",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 3",
+      "to": "Điều 55",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 4",
+      "to": "Điều 56",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 4",
+      "to": "Điều 3",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 5",
+      "to": "Điều 66",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 81",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 81",
+      "to": "Điều 208",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 7",
+      "to": "Điều 82",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 85",
+      "to": "Điều 134",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 9",
+      "to": "Điều 39",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 9",
+      "to": "Điều 469",
+      "relation": "dẫn chiếu đến"
     },
     {
       "from": "Điều 11",
+      "to": "Điều 26",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 2",
+      "to": "Điều 10",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 3",
+      "to": "Điều 10",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 4",
+      "to": "Điều 2",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 247",
+      "to": "Điều 27",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 247",
+      "to": "Điều 32",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 247",
+      "to": "Điều 31",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 247",
+      "to": "Điều 63",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 247",
+      "to": "Điều 64",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 247",
+      "to": "Điều 85",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 247",
+      "to": "Điều 36",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 247",
+      "to": "Điều 46",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 247",
+      "to": "Điều 88",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 247",
+      "to": "Điều 89",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 247",
+      "to": "Điều 90",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 247",
+      "to": "Điều 9",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 247",
+      "to": "Điều 92",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 247",
+      "to": "Điều 95",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 247",
+      "to": "Điều 96",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 247",
+      "to": "Điều 97",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 247",
+      "to": "Điều 98",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 1",
+      "to": "Điều 11",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 2",
       "to": "Điều 8",
-      "relation": "liên quan đến"
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 2",
+      "to": "Điều 9",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 2",
+      "to": "Điều 5",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 2",
+      "to": "Điều 11",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 3",
+      "to": "Điều 8",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 3",
+      "to": "Điều 11",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 3",
+      "to": "Điều 4",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 3",
+      "to": "Điều 9",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 3",
+      "to": "Điều 13",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 3",
+      "to": "Điều 15",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 3",
+      "to": "Điều 16",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 3",
+      "to": "Điều 14",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 4",
+      "to": "Điều 8",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 4",
+      "to": "Điều 11",
+      "relation": "dẫn chiếu đến"
     },
     {
       "from": "Điều 12",
       "to": "Điều 16",
-      "relation": "liên quan đến"
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 12",
+      "to": "Điều 59",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 12",
+      "to": "Điều 8",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 5",
+      "to": "Điều 50",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 50",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 31",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 110",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 115",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 7",
+      "to": "Điều 59",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 7",
+      "to": "Điều 60",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 7",
+      "to": "Điều 2",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 8",
+      "to": "Điều 5",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 10",
+      "to": "Điều 8",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 11",
+      "to": "Điều 8",
+      "relation": "dẫn chiếu đến"
     },
     {
       "from": "Điều 14",
       "to": "Điều 15",
-      "relation": "liên quan đến"
+      "relation": "dẫn chiếu đến"
     },
     {
       "from": "Điều 14",
       "to": "Điều 16",
-      "relation": "liên quan đến"
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 25",
+      "to": "Điều 36",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 26",
+      "to": "Điều 24",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 26",
+      "to": "Điều 25",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 27",
+      "to": "Điều 30",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 27",
+      "to": "Điều 24",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 27",
+      "to": "Điều 37",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 33",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 46",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 59",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 64",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 47",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 29",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 33",
+      "to": "Điều 40",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 34",
+      "to": "Điều 26",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 34",
+      "to": "Điều 33",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 38",
+      "to": "Điều 42",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 38",
+      "to": "Điều 59",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 41",
+      "to": "Điều 38",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 41",
+      "to": "Điều 33",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 41",
+      "to": "Điều 43",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 43",
+      "to": "Điều 38",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 43",
+      "to": "Điều 33",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 43",
+      "to": "Điều 40",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 45",
+      "to": "Điều 44",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 45",
+      "to": "Điều 37",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 48",
+      "to": "Điều 29",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 49",
+      "to": "Điều 47",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 50",
+      "to": "Điều 29",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 56",
+      "to": "Điều 51",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 58",
+      "to": "Điều 81",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 59",
+      "to": "Điều 60",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 27",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 61",
+      "to": "Điều 59",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 62",
+      "to": "Điều 59",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 62",
+      "to": "Điều 61",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 67",
+      "to": "Điều 56",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 75",
+      "to": "Điều 70",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 69",
+      "to": "Điều 70",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 69",
+      "to": "Điều 71",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 80",
+      "to": "Điều 69",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 83",
+      "to": "Điều 82",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 85",
+      "to": "Điều 86",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 86",
+      "to": "Điều 85",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 93",
+      "to": "Điều 88",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 93",
+      "to": "Điều 94",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 96",
+      "to": "Điều 95",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 96",
+      "to": "Điều 97",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 96",
+      "to": "Điều 98",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 101",
+      "to": "Điều 92",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 102",
+      "to": "Điều 101",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 104",
+      "to": "Điều 105",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 107",
+      "to": "Điều 119",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 113",
+      "to": "Điều 112",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 121",
+      "to": "Điều 5",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 128",
+      "to": "Điều 88",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 128",
+      "to": "Điều 89",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 90",
+      "to": "Điều 97",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 90",
+      "to": "Điều 98",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 90",
+      "to": "Điều 99",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 1",
+      "to": "Điều 2",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 1",
+      "to": "Điều 3",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 1",
+      "to": "Điều 4a",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 1",
+      "to": "Điều 4",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 1",
+      "to": "Điều 6",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 7",
+      "to": "Điều 13",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 7",
+      "to": "Điều 14",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 7",
+      "to": "Điều 15",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 7",
+      "to": "Điều 16",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 7",
+      "to": "Điều 22",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 7",
+      "to": "Điều 32",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 7",
+      "to": "Điều 34",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 7",
+      "to": "Điều 47",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 7",
+      "to": "Điều 62",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 7",
+      "to": "Điều 79",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 7",
+      "to": "Điều 4b",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 7",
+      "to": "Điều 4a",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 7",
+      "to": "Điều 125",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 7",
+      "to": "Điều 5",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 7",
+      "to": "Điều 6",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 7",
+      "to": "Điều 30",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 7",
+      "to": "Điều 8",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 7",
+      "to": "Điều 9",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 7",
+      "to": "Điều 10",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 7",
+      "to": "Điều 11",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 7",
+      "to": "Điều 12",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 7",
+      "to": "Điều 17",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 18",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 20",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 21",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 22",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 23",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 24",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 25",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 26",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 28",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 29",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 31",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 32",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 33",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 34",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 35",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 36",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 37",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 38",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 39",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 40",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 41",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 42",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 43",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 44",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 45",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 46",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 47",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 48",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 50",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 51",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 52",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 53",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 54",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 55",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 56",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 57",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 62",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 63",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 78",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 79",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 82",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 83",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 49",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 58",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 66",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 12",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 6",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 7",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 9",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 17a",
+      "to": "Điều 10",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 15",
+      "to": "Điều 17a",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 15",
+      "to": "Điều 19",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 15",
+      "to": "Điều 22",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 15",
+      "to": "Điều 23",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 15",
+      "to": "Điều 32",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 15",
+      "to": "Điều 34",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 15",
+      "to": "Điều 35",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 15",
+      "to": "Điều 36",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 15",
+      "to": "Điều 39",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 15",
+      "to": "Điều 45",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 15",
+      "to": "Điều 46",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 15",
+      "to": "Điều 47",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 15",
+      "to": "Điều 51",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 15",
+      "to": "Điều 53",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 15",
+      "to": "Điều 54",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 15",
+      "to": "Điều 56",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 15",
+      "to": "Điều 57",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 15",
+      "to": "Điều 58",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 15",
+      "to": "Điều 83",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 3",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 84",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 17a",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 85",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 86",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 87a",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 87",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 88",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 48",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 58",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 61",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 62",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 34",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 35",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 38",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 40",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 41",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 42",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 43",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 44",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 45",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 49",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 56",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 28",
+      "to": "Điều 57",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 78",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 5",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 6",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 7",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 12",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 13",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 14",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 15",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 17",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 22",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 23",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 24",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 28",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 29",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 30",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 31",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 32",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 33",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 37",
+      "to": "Điều 38",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 37",
+      "to": "Điều 39",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 37",
+      "to": "Điều 42",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 37",
+      "to": "Điều 43",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 37",
+      "to": "Điều 44",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 37",
+      "to": "Điều 45",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 37",
+      "to": "Điều 46",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 37",
+      "to": "Điều 47",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 37",
+      "to": "Điều 56",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 37",
+      "to": "Điều 57",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 37",
+      "to": "Điều 58",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 37",
+      "to": "Điều 59",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 65",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 79",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 80",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 16",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 21",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 48",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 50",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 56",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 58",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 63",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 64",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 37",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 46",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 60",
+      "to": "Điều 57",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 65",
+      "to": "Điều 34",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 65",
+      "to": "Điều 35",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 65",
+      "to": "Điều 66",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 65",
+      "to": "Điều 73",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 65",
+      "to": "Điều 75",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 66",
+      "to": "Điều 73",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 66",
+      "to": "Điều 75",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 66",
+      "to": "Điều 76",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 56",
+      "to": "Điều 9",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 56",
+      "to": "Điều 12",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 56",
+      "to": "Điều 19",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 56",
+      "to": "Điều 32",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 56",
+      "to": "Điều 34",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 56",
+      "to": "Điều 35",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 56",
+      "to": "Điều 36",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 56",
+      "to": "Điều 46",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 56",
+      "to": "Điều 53",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 56",
+      "to": "Điều 54",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 56",
+      "to": "Điều 57",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 56",
+      "to": "Điều 58",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 56",
+      "to": "Điều 59",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 56",
+      "to": "Điều 61",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 56",
+      "to": "Điều 79",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 9",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 10",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 12",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 15",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 19",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 22",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 23",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 32",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 34",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 35",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 36",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 45",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 46",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 47",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 53",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 54",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 56",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 57",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 58",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 59",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 60",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 79",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 7",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 17a",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 19",
+      "to": "Điều 22",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 19",
+      "to": "Điều 23",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 19",
+      "to": "Điều 32",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 19",
+      "to": "Điều 34",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 35",
+      "to": "Điều 36",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 35",
+      "to": "Điều 39",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 35",
+      "to": "Điều 45",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 35",
+      "to": "Điều 46",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 35",
+      "to": "Điều 47",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 53",
+      "to": "Điều 54",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 53",
+      "to": "Điều 56",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 53",
+      "to": "Điều 57",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 53",
+      "to": "Điều 58",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 53",
+      "to": "Điều 79",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 2",
+      "to": "Điều 3",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 2",
+      "to": "Điều 32",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 2",
+      "to": "Điều 36",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 2",
+      "to": "Điều 84",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 2",
+      "to": "Điều 85",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 2",
+      "to": "Điều 87",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 2",
+      "to": "Điều 88",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 22",
+      "to": "Điều 23",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 22",
+      "to": "Điều 24",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 22",
+      "to": "Điều 54",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 22",
+      "to": "Điều 39",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 22",
+      "to": "Điều 83",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 22",
+      "to": "Điều 7",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 22",
+      "to": "Điều 9",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 22",
+      "to": "Điều 15",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 22",
+      "to": "Điều 26",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 22",
+      "to": "Điều 29",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 22",
+      "to": "Điều 32",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 22",
+      "to": "Điều 79",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 22",
+      "to": "Điều 84",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 4",
+      "to": "Điều 6",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 4",
+      "to": "Điều 15",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 4",
+      "to": "Điều 21",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 6",
+      "to": "Điều 1",
+      "relation": "dẫn chiếu đến"
+    },
+    {
+      "from": "Điều 11",
+      "to": "Điều 44",
+      "relation": "dẫn chiếu đến"
     }
   ]
 }

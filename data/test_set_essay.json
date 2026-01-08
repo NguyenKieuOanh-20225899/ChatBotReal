@@ -1,0 +1,106 @@
+[
+  {
+    "question": "Câu 1. Theo Luật hôn nhân và gia đình năm 2014, những nguyên tắc cơ bản của chế độ hôn nhân và gia đình ở nước ta được quy định như thế nào?",
+    "ground_truth": "Theo Điều 2 Luật hôn nhân và gia đình năm 2014, những nguyên tắc cơ bản gồm: a) Hôn nhân tự nguyện, tiến bộ, một vợ một chồng, vợ chồng bình đẳng. b) Hôn nhân giữa công dân Việt Nam thuộc các dân tộc, tôn giáo, giữa người theo tôn giáo với người không theo tôn giáo... được tôn trọng và bảo vệ. c) Xây dựng gia đình ấm no, tiến bộ, hạnh phúc; các thành viên gia đình có nghĩa vụ tôn trọng, quan tâm, chăm sóc, giúp đỡ nhau; không phân biệt đối xử giữa các con. d) Nhà nước, xã hội và gia đình có trách nhiệm bảo vệ, hỗ trợ trẻ em, người cao tuổi, người khuyết tật... đ) Kế thừa, phát huy truyền thống văn hóa, đạo đức tốt đẹp của dân tộc Việt Nam."
+  },
+  {
+    "question": "Câu 2. Để bảo vệ chế độ hôn nhân và gia đình, Nhà nước ta cấm thực hiện những hành vi nào?",
+    "ground_truth": "Theo Điều 5 Luật hôn nhân và gia đình năm 2014, cấm các hành vi: Kết hôn giả tạo, ly hôn giả tạo; Tảo hôn, cưỡng ép kết hôn, lừa dối kết hôn, cản trở kết hôn; Người đang có vợ, có chồng mà kết hôn hoặc chung sống như vợ chồng với người khác; Kết hôn hoặc chung sống như vợ chồng giữa những người cùng dòng máu về trực hệ, giữa những người có họ trong phạm vi ba đời...; Yêu sách của cải trong kết hôn; Cưỡng ép ly hôn, lừa dối ly hôn; Thực hiện sinh con bằng kỹ thuật hỗ trợ sinh sản vì mục đích thương mại; Bạo lực gia đình; Lợi dụng quyền hôn nhân gia đình để mua bán người, bóc lột sức lao động..."
+  },
+  {
+    "question": "Câu 3. Việc áp dụng tập quán về hôn nhân và gia đình được pháp luật quy định như thế nào? Việc thách cưới cao mang tính chất gả bán có vi phạm pháp luật không?",
+    "ground_truth": "Theo Điều 7 Luật HN&GĐ 2014: Trong trường hợp pháp luật không quy định và các bên không có thỏa thuận thì tập quán tốt đẹp thể hiện bản sắc của mỗi dân tộc, không trái với nguyên tắc quy định tại Điều 2 và không vi phạm điều cấm của Luật này được áp dụng. Việc thách cưới mang tính chất gả bán là phong tục lạc hậu, trái với quy định của Luật và bị nghiêm cấm theo Nghị định số 32/2002/NĐ-CP."
+  },
+  {
+    "question": "Câu 4. M sắp tròn 17 tuổi bị bố mẹ ép kết hôn. Xin hỏi điều kiện kết hôn là gì và việc ép kết hôn này đúng hay sai?",
+    "ground_truth": "Theo Điều 8 Luật HN&GĐ 2014: Nam từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên mới được kết hôn; việc kết hôn do nam nữ tự nguyện quyết định. M chưa đủ 17 tuổi là chưa đủ tuổi kết hôn. Việc bố mẹ ép M kết hôn là vi phạm quy định về tự nguyện và cấm cưỡng ép kết hôn."
+  },
+  {
+    "question": "Câu 5. Chúng tôi tổ chức đám cưới và sống chung đã được 3 năm nhưng chưa đăng ký kết hôn. Như vậy có vi phạm pháp luật không?",
+    "ground_truth": "Theo Điều 9 Luật HN&GĐ 2014: Việc kết hôn phải được đăng ký và do cơ quan nhà nước có thẩm quyền thực hiện. Việc kết hôn không được đăng ký thì không có giá trị pháp lý. Do đó, việc tổ chức đám cưới nhưng không đăng ký là không được pháp luật công nhận quan hệ vợ chồng."
+  },
+  {
+    "question": "Câu 6. Chị H bị cha mẹ cưỡng ép kết hôn, chị H có quyền tự mình yêu cầu Tòa án hủy việc kết hôn đó không?",
+    "ground_truth": "Theo Điều 10 Luật HN&GĐ 2014, người bị cưỡng ép kết hôn có quyền tự mình yêu cầu hoặc đề nghị cá nhân, tổ chức (như Hội LHPN, cơ quan quản lý gia đình/trẻ em) yêu cầu Tòa án hủy việc kết hôn trái pháp luật."
+  },
+  {
+    "question": "Câu 8. Mặc dù chưa ly hôn với vợ nhưng anh A đã cưới và kết hôn với chị C. Sau khi bị hủy kết hôn trái pháp luật, quan hệ giữa anh A và chị C được giải quyết như thế nào?",
+    "ground_truth": "Theo Điều 12 Luật HN&GĐ 2014: Hai bên phải chấm dứt quan hệ như vợ chồng. Quyền, nghĩa vụ của cha mẹ con giải quyết như khi ly hôn. Quan hệ tài sản, nghĩa vụ và hợp đồng giải quyết theo thỏa thuận; nếu không thỏa thuận được thì giải quyết theo Bộ luật Dân sự, đảm bảo quyền lợi của phụ nữ và con."
+  },
+  {
+    "question": "Câu 10. Chồng và gia đình chồng ép tôi phải theo đạo Tin lành. Việc làm của họ có đúng không?",
+    "ground_truth": "Theo Điều 22 Luật HN&GĐ 2014: 'Vợ, chồng có nghĩa vụ tôn trọng quyền tự do tín ngưỡng, tôn giáo của nhau'. Việc ép buộc vợ phải theo tôn giáo của chồng là trái pháp luật. Bạn có quyền tự do tín ngưỡng."
+  },
+  {
+    "question": "Câu 11. Trong thời gian người chồng đi làm ăn xa nhà, người vợ có quyền thế chấp quyền sử dụng đất là tài sản chung để vay vốn kinh doanh không?",
+    "ground_truth": "Theo Điều 24 và 35 Luật HN&GĐ 2014: Việc định đoạt tài sản chung là bất động sản phải do vợ chồng thỏa thuận. Người vợ chỉ có quyền thế chấp nếu người chồng đã có văn bản ủy quyền cho người vợ thay mặt thực hiện giao dịch."
+  },
+  {
+    "question": "Câu 13. Chiếc xe máy là tài sản chung nhưng chỉ ghi tên vợ. Vợ có được tự mình bán chiếc xe máy đó không?",
+    "ground_truth": "Theo Điều 35 Luật HN&GĐ 2014, xe máy là động sản phải đăng ký quyền sở hữu, nên việc định đoạt phải có thỏa thuận bằng văn bản của vợ chồng. Nếu người vợ tự ý bán mà không có sự đồng ý/ủy quyền của chồng thì giao dịch đó có thể bị vô hiệu."
+  },
+  {
+    "question": "Câu 15. Anh A là lao động chủ lực, vợ chỉ nội trợ. Anh A tự cho mình quyền quyết định tài sản chung. Như vậy đúng hay sai?",
+    "ground_truth": "Sai. Theo Điều 29 Luật HN&GĐ 2014: Vợ, chồng bình đẳng với nhau về quyền, nghĩa vụ trong việc tạo lập, chiếm hữu, sử dụng, định đoạt tài sản chung; không phân biệt giữa lao động trong gia đình và lao động có thu nhập."
+  },
+  {
+    "question": "Câu 16. Ngôi nhà là tài sản riêng của chồng nhưng là nơi ở duy nhất. Khi chồng thực hiện giao dịch liên quan đến nhà có phải thỏa thuận với vợ không?",
+    "ground_truth": "Theo Điều 31 Luật HN&GĐ 2014: Dù là tài sản riêng nhưng nếu là nơi ở duy nhất của vợ chồng thì việc xác lập, thực hiện, chấm dứt giao dịch liên quan đến nhà đó phải có sự thỏa thuận của vợ chồng; nếu chồng tự làm thì phải bảo đảm chỗ ở cho vợ con."
+  },
+  {
+    "question": "Câu 18. Tài sản chung của vợ chồng bao gồm những gì?",
+    "ground_truth": "Theo Điều 33 Luật HN&GĐ 2014: Tài sản chung gồm tài sản do vợ, chồng tạo ra, thu nhập do lao động, sản xuất, kinh doanh, hoa lợi, lợi tức từ tài sản riêng và thu nhập hợp pháp khác trong thời kỳ hôn nhân; tài sản được thừa kế chung, tặng cho chung; quyền sử dụng đất có được sau khi kết hôn (trừ trường hợp riêng). Tài sản tranh chấp mà không chứng minh được là riêng thì coi là chung."
+  },
+  {
+    "question": "Câu 21. Tiền tiết kiệm có trước khi kết hôn, sau khi kết hôn có được coi là tài sản riêng không?",
+    "ground_truth": "Theo Điều 43 Luật HN&GĐ 2014: Tài sản mà mỗi người có trước khi kết hôn là tài sản riêng. Số tiền 500 triệu đồng bạn có trước khi cưới là tài sản riêng của bạn. Bạn có quyền nhập hoặc không nhập vào tài sản chung."
+  },
+  {
+    "question": "Câu 22. Tôi muốn lập thỏa thuận chế độ tài sản trước khi kết hôn vì sợ chồng kinh doanh thua lỗ. Pháp luật có cho phép không?",
+    "ground_truth": "Có. Theo Điều 47 Luật HN&GĐ 2014, vợ chồng có quyền lựa chọn chế độ tài sản theo thỏa thuận. Thỏa thuận này phải lập trước khi kết hôn bằng văn bản có công chứng hoặc chứng thực."
+  },
+  {
+    "question": "Câu 24. Chồng ngoại tình, vợ đang mang thai muốn ly hôn. Pháp luật quy định quyền yêu cầu ly hôn trong trường hợp này thế nào?",
+    "ground_truth": "Theo Điều 51 Luật HN&GĐ 2014: Vợ có quyền yêu cầu ly hôn bất cứ lúc nào nếu có căn cứ. Chỉ có chồng là bị hạn chế quyền yêu cầu ly hôn khi vợ đang có thai, sinh con hoặc nuôi con dưới 12 tháng tuổi. Vậy bạn (người vợ) hoàn toàn có quyền ly hôn."
+  },
+  {
+    "question": "Câu 29. Nguyên tắc giải quyết tài sản của vợ chồng khi ly hôn là gì?",
+    "ground_truth": "Theo Điều 59 Luật HN&GĐ 2014: 1. Ưu tiên thỏa thuận. 2. Nếu không thỏa thuận được, tài sản chung được chia đôi nhưng có tính đến: hoàn cảnh gia đình/vợ chồng; công sức đóng góp (lao động nội trợ được tính là có thu nhập); bảo vệ lợi ích chính đáng trong sản xuất kinh doanh; lỗi của mỗi bên. 3. Tài sản riêng của ai thuộc về người đó."
+  },
+  {
+    "question": "Câu 30. Chia tài sản khi ly hôn trong trường hợp vợ chồng sống chung với gia đình?",
+    "ground_truth": "Theo Điều 61 Luật HN&GĐ 2014: Nếu tài sản chung của vợ chồng trong khối tài sản gia đình không xác định được thì chia căn cứ vào công sức đóng góp của vợ chồng vào việc tạo lập, duy trì, phát triển khối tài sản chung và đời sống chung. Nếu xác định được theo phần thì trích ra để chia."
+  },
+  {
+    "question": "Câu 33. Chồng chết, vợ muốn bán nhà chung. Gia đình chồng đòi chia thừa kế. Pháp luật quy định sao?",
+    "ground_truth": "Theo Điều 66 Luật HN&GĐ 2014: Khi một bên chết, tài sản chung được chia đôi. Một nửa thuộc về người vợ (chị B). Một nửa thuộc về di sản của người chồng (anh A) và sẽ được chia thừa kế theo pháp luật (nếu không có di chúc) cho hàng thừa kế thứ nhất gồm: vợ, cha mẹ đẻ/nuôi, con đẻ/nuôi."
+  },
+  {
+    "question": "Câu 35. Cha mẹ có những nghĩa vụ và quyền gì đối với con?",
+    "ground_truth": "Theo Điều 69, 71, 72 Luật HN&GĐ 2014: Thương yêu, tôn trọng, giáo dục con; Trông nom, nuôi dưỡng, chăm sóc, bảo vệ quyền lợi hợp pháp; Giám hộ cho con chưa thành niên/mất năng lực hành vi; Không phân biệt đối xử; Không lạm dụng sức lao động; Không xúi giục làm việc trái pháp luật."
+  },
+  {
+    "question": "Câu 37. Bố mẹ chồng để lại đất cho cháu nội (con tôi), cháu bị bệnh cần tiền chữa trị. Vợ chồng tôi có được bán đất của con để chữa bệnh cho con không?",
+    "ground_truth": "Theo Điều 73 Luật HN&GĐ 2014: Cha mẹ là người đại diện theo pháp luật của con chưa thành niên. Cha mẹ có quyền tự mình thực hiện giao dịch nhằm đáp ứng nhu cầu thiết yếu của con (như chữa bệnh). Tuy nhiên, giao dịch liên quan đến bất động sản của con phải có sự thỏa thuận của cả cha và mẹ."
+  },
+  {
+    "question": "Câu 41. Con 17 tuổi được tặng xe máy, muốn tự bán. Bố mẹ không đồng ý. Con có bán được không?",
+    "ground_truth": "Theo Điều 77 Luật HN&GĐ 2014: Con từ đủ 15 đến dưới 18 tuổi có quyền định đoạt tài sản riêng, TRỪ trường hợp tài sản là bất động sản hoặc động sản có đăng ký quyền sở hữu (như xe máy) thì phải có sự đồng ý bằng văn bản của cha mẹ hoặc người giám hộ. Do đó, H không được tự bán xe nếu bố mẹ không đồng ý."
+  },
+  {
+    "question": "Câu 44. Nghĩa vụ, quyền của cha mẹ không trực tiếp nuôi con sau khi ly hôn?",
+    "ground_truth": "Theo Điều 82 Luật HN&GĐ 2014: Có nghĩa vụ tôn trọng quyền của con được sống chung với người nuôi dưỡng; có nghĩa vụ cấp dưỡng; có quyền và nghĩa vụ thăm nom con mà không ai được cản trở."
+  },
+  {
+    "question": "Câu 45. Vợ được quyền nuôi con nhưng đi công tác xa để con cho bà ngoại, con thiếu thốn. Tôi có quyền đòi lại quyền nuôi con không?",
+    "ground_truth": "Có. Theo Điều 84 Luật HN&GĐ 2014, Tòa án có thể quyết định thay đổi người trực tiếp nuôi con nếu người đang nuôi không còn đủ điều kiện trực tiếp trông nom, chăm sóc, nuôi dưỡng, giáo dục con."
+  },
+  {
+    "question": "Câu 50. Điều kiện mang thai hộ vì mục đích nhân đạo là gì?",
+    "ground_truth": "Theo Điều 95 Luật HN&GĐ 2014: Vợ chồng không có con chung; Người vợ không thể mang thai và sinh con ngay cả khi áp dụng kỹ thuật hỗ trợ (có xác nhận y tế); Đã được tư vấn y tế, pháp lý, tâm lý. Người mang thai hộ phải là người thân thích cùng hàng, từng sinh con, chỉ mang thai hộ một lần, ở độ tuổi phù hợp."
+  },
+  {
+    "question": "Câu 57. Hai vợ chồng ly hôn, vợ nuôi con, chồng cấp dưỡng nhưng không thống nhất được mức cấp dưỡng. Pháp luật giải quyết sao?",
+    "ground_truth": "Theo Điều 116 Luật HN&GĐ 2014: Mức cấp dưỡng do người có nghĩa vụ và người được cấp dưỡng (hoặc người giám hộ) thỏa thuận căn cứ vào thu nhập, khả năng thực tế của người cấp dưỡng và nhu cầu thiết yếu của người được cấp dưỡng. Nếu không thỏa thuận được thì yêu cầu Tòa án giải quyết."
+  }
+]

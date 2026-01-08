@@ -1,0 +1,206 @@
+[
+  {
+    "question": "1. Hiện nay, pháp luật quy định nam bao nhiêu tuổi thì được kết hôn?\na. Từ đủ 15 tuổi trở lên\nb. Từ đủ 18 tuổi trở lên\nc. Từ đủ 20 tuổi trở lên",
+    "ground_truth": "c"
+  },
+  {
+    "question": "2. Nhà nước có thừa nhận hôn nhân giữa những người cùng giới tính không?\na. Không\nb. Có\nc. Có, nhưng trong một số trường hợp đặc biệt",
+    "ground_truth": "a"
+  },
+  {
+    "question": "3. Thỏa thuận về việc vợ/chồng đưa tài sản chung vào kinh doanh có phải lập thành văn bản hay không?\na. Không cần thiết phải lập thành văn bản\nb. Nên lập thành văn bản\nc. Phải lập thành văn bản",
+    "ground_truth": "c"
+  },
+  {
+    "question": "4. Chia tài sản chung trong thời kỳ hôn nhân bị vô hiệu trong các trường hợp nào?\na. Ảnh hưởng nghiêm trọng đến lợi ích của gia đình\nb. Nhằm trốn tránh thực hiện các nghĩa vụ\nc. Cả 2 đáp án trên",
+    "ground_truth": "c"
+  },
+  {
+    "question": "5. Quyền của vợ, chồng đối với tài sản riêng của mình bao gồm những quyền nào?\na. Sử dụng, định đoạt, không được nhập vào tài sản chung\nb. Chiếm hữu, sử dụng, định đoạt, nhập hoặc không nhập vào tài sản chung.\nc. Chiếm hữu, sử dụng, định đoạt, không được nhập vào tài sản chung",
+    "ground_truth": "b"
+  },
+  {
+    "question": "6. A và B kết hôn năm 2015, chung sống được 2 năm thì A bị tâm thần. Mẹ của A có được yêu cầu giải quyết ly hôn không?\na. Không được\nb. Được\nc. Do thỏa thuận giữa các bên",
+    "ground_truth": "b"
+  },
+  {
+    "question": "7. Trường hợp nào chồng không có quyền yêu cầu ly hôn?\na. Vợ đang mang thai\nb. Vợ đang nuôi con dưới 12 tháng tuổi\nc. Cả 2 đáp án trên",
+    "ground_truth": "c"
+  },
+  {
+    "question": "8. Thời điểm chấm dứt quan hệ hôn nhân là khi nào?\na. Khi vợ chồng không còn chung sống với nhau nữa\nb. Khi vợ bế con về nhà mẹ vợ\nc. Khi bản án, quyết định ly hôn của Tòa án có hiệu lực pháp luật.",
+    "ground_truth": "c"
+  },
+  {
+    "question": "9. Năm 2016, vợ chồng AB vay nợ chị H 100 triệu để làm nhà, đến nay chưa trả hết. Năm 2017, vợ chồng AB ly hôn, hỏi, nghĩa vụ trả nợ của vợ chồng đối với chị H khi ly hôn có còn hiệu lực không?\na. Đương nhiên có hiệu lực\nb. Hết hiệu lực\nc. Có hiệu lực, trừ trường hợp có thỏa thuận khác",
+    "ground_truth": "a"
+  },
+  {
+    "question": "10. Vợ chồng AB đang sống tại căn nhà là tài sản riêng của A. Ngày 03/01/2017, AB ly hôn, B gặp khó khăn về chỗ ở thì có được ở lại nhà A không?\na. Không\nb. Tối đa 3 tháng ( Đến hết 31/3/2017)\nc. Tối đa 6 tháng ( Đến hết 30/6/2017)",
+    "ground_truth": "c"
+  },
+  {
+    "question": "11. Hôn nhân vợ chồng chấm dứt khi nào?\na. Khi vợ hoặc chồng chết\nb. Khi có quyết định của Tòa tuyên bố vợ hoặc chồng đã chết\nc. Cả 2 đáp án trên",
+    "ground_truth": "c"
+  },
+  {
+    "question": "12. AB là vợ chồng. Sau nhiều năm A mất tích, Tòa tuyên A chết theo yêu cầu của B. Sau đó, B kết hôn với Lợi. Một thời gian sau, A trở về yêu cầu Tòa hủy quyết định tuyên bố A chết. Hỏi hôn nhân giữa B và Lợi có hiệu lực pháp luật không?\na. Hôn nhân giữa A và B có hiệu lực trở lại làm hôn nhân giữa B và Lợi chấm dứt\nb. Hôn nhân giữa B và Lợi vẫn có hiệu lực. Hôn nhân của A và B chấm dứt\nc. Hôn nhân giữa A và B vẫn có hiệu lực. Hôn nhân giữa B và Lợi chấm dứt",
+    "ground_truth": "b"
+  },
+  {
+    "question": "13. Ai là đại diện theo pháp luật của con chưa thành niên?\na. Anh, chị\nb. Ông, bà\nc. Cha, mẹ. Trừ trường hợp con có người khác làm giám hộ hoặc có người khác đại diện theo pháp luật.",
+    "ground_truth": "c"
+  },
+  {
+    "question": "14. Con bao nhiêu tuổi khi chung sống với cha mẹ phải có nghĩa vụ chăm lo đời sống chung của gia đình?\na. Đủ 15 tuổi trở lên\nb. Đủ 16 tuổi trở lên\nc. Đủ 18 tuổi trở lên",
+    "ground_truth": "a"
+  },
+  {
+    "question": "15. Con bao nhiêu tuổi có thể tự mình quản lý tài sản riêng?\na. Từ đủ 13 tuổi trở lên\nb. Từ đủ 15 tuổi trở lên\nc. Từ đủ 18 tuổi trở lên",
+    "ground_truth": "b"
+  },
+  {
+    "question": "16. Trường hợp cha mẹ đang quản lý tài sản riêng của con chưa thành niên mà con được giao cho người khác giám hộ thì tài sản riêng của con giao cho ai?\na. Người giám hộ đó\nb. Cha mẹ vẫn quản lý\nc. Được giao cho con",
+    "ground_truth": "a"
+  },
+  {
+    "question": "17. Con bao nhiêu tuổi thì khi định đoạt tài sản riêng của con, cha mẹ phải xem xét nguyện vọng của con?\na. Từ đủ 9 tuổi đến dưới 15 tuổi\nb. Từ đủ 9 tuổi đến dưới 16 tuổi\nc. Từ đủ 9 tuổi đến dưới 18 tuổi",
+    "ground_truth": "c"
+  },
+  {
+    "question": "18. Vợ chồng Tú & Thọ có 1 con chung. Sau khi ly hôn, Tú tái hôn với Hoàng. Vậy Hoàng có nghĩa vụ chăm sóc con riêng của Tú không?\na. Không\nb. Có\nc. Tùy theo thỏa thuận các bên",
+    "ground_truth": "b"
+  },
+  {
+    "question": "19. Nghĩa vụ, quyền của cha, mẹ không trực tiếp nuôi con sau khi ly hôn?\na. Tôn trọng quyền của con được sống chung với người trực tiếp nuôi.\nb. Cấp dưỡng cho con.\nc. Cả 2 đáp án trên",
+    "ground_truth": "c"
+  },
+  {
+    "question": "20. AB ly hôn. Tòa tuyên con chung ở với A. B đến thăm con bị A ngăn cản. A làm vậy đúng không?\na. Sai\nb. Đúng",
+    "ground_truth": "a"
+  },
+  {
+    "question": "21. Cha mẹ bị hạn chế quyền với con chưa thành niên khi nào?\na. Phá tán tài sản của con\nb. Có lối sống đồi trụy\nc. Cả 2 đáp án trên",
+    "ground_truth": "c"
+  },
+  {
+    "question": "22. Tòa được ra quyết định không cho cha, mẹ trông nom, chăm sóc, giáo dục con, quản lý tài sản riêng của con hoặc đại diện theo pháp luật cho con trong thời hạn bao lâu?\na. Từ 01 năm đến 05 năm\nb. Từ 02 năm đến 10 năm\nc. Từ 05 năm đến 10 năm",
+    "ground_truth": "a"
+  },
+  {
+    "question": "23. Việc trông nom, chăm sóc con chưa thành niên được giao cho người giám hộ trong trường hợp nào?\na. Cha và mẹ đều bị Tòa án hạn chế quyền đối với con chưa thành niên\nb. Một bên cha, mẹ không bị hạn chế quyền đối với con chưa thành niên nhưng không đủ điều kiện để thực hiện quyền, nghĩa vụ đối với con\nc. Cả 2 trường hợp trên",
+    "ground_truth": "c"
+  },
+  {
+    "question": "24. Cha, mẹ đã bị Tòa án hạn chế quyền đối với con chưa thành niên có phải cấp dưỡng cho con không?\na. Không\nb. Có\nc. Tùy vào thỏa thuận",
+    "ground_truth": "b"
+  },
+  {
+    "question": "25. Chị Y mang thai 3 tháng thì kết hôn với anh X. Vậy đứa bé phải là con chung của vợ chồng X & Y không?\na. Không phải\nb. Phải\nc. Không xác định được",
+    "ground_truth": "b"
+  },
+  {
+    "question": "26. X&Y là vợ chồng. Trong quá trình chung sống, Y nhận lại con riêng không thông qua X là đúng hay sai?\na. Đúng\nb. Sai",
+    "ground_truth": "a"
+  },
+  {
+    "question": "27. Anh X và chị Y nhờ bà S mang thai hộ vì mục đích nhân đạo. Vậy đứa bé là con chung của ai?\na. X và Y\nb. X và bà S\nc. X với chị Y và bà S",
+    "ground_truth": "a"
+  },
+  {
+    "question": "28. Vợ chồng X & Y không có con, quyết định nhờ mang thai hộ vì mục đích nhân đạo. Trong quá trình thỏa thuận với bà S để nhờ mang thai hộ, vợ chồng XY có công việc phải ra nước ngoài. X&Y ủy quyền cho bà A (cô của Y) thỏa thuận với S về việc mang thai hộ. Việc ủy quyền có hiệu lực không?\na. Có\nb. Không",
+    "ground_truth": "b"
+  },
+  {
+    "question": "29. Người mẹ nhờ mang thai hộ được hưởng chế độ thai sản bao lâu từ khi nhận con?\na. 03 tháng\nb. 06 tháng\nc. 09 tháng",
+    "ground_truth": "b"
+  },
+  {
+    "question": "30. Người mang thai hộ có thể nhận nuôi con mà mình mang thai khi nào?\na. Cả hai vợ chồng bên nhờ mang thai hộ chết\nb. Cả 2 vợ chồng nhờ mang thai hộ mất năng lực hành vi dân sự\nc. Cả a và b",
+    "ground_truth": "c"
+  },
+  {
+    "question": "31. Nhận định nào đúng về cấp dưỡng?\na. Nghĩa vụ cấp dưỡng không thể thay thế bằng nghĩa vụ khác\nb. Nghĩa vụ cấp dưỡng có thể chuyển giao cho người khác cùng huyết thống\nc. Người có nghĩa vụ cấp dưỡng mà trốn tránh thì Tòa án sẽ mặc nhiên buộc người đó phải thực hiện nghĩa vụ cấp dưỡng",
+    "ground_truth": "a"
+  },
+  {
+    "question": "32. Con đã thành niên không sống chung với cha mẹ có nghĩa vụ cấp dưỡng cho cha mẹ trong trường hợp nào?\na. Cha mẹ không có khả năng lao động\nb. Cha mẹ không có tài sản để tự nuôi mình\nc. Cả 2 trường hợp trên",
+    "ground_truth": "c"
+  },
+  {
+    "question": "33. Khi nào nghĩa vụ cấp dưỡng chấm dứt?\na. Người được cấp dưỡng đã thành niên và có khả năng lao động hoặc có tài sản để tự nuôi mình\nb. Người được cấp dưỡng được nhận làm con nuôi\nc. Cả 2 đáp án trên",
+    "ground_truth": "c"
+  },
+  {
+    "question": "34. Toàn và Hạnh sống chung với nhau như vợ chồng từ 2016, có một con chung. Cho tới thời điểm hiện tại, hai người có phải là vợ chồng không?\na. Không phải vì chưa đăng ký kết hôn\nb. Phải vì đã có con với nhau\nc. Phải vì đã sống với nhau như vợ chồng đủ 07 năm",
+    "ground_truth": "a"
+  },
+  {
+    "question": "35. Ngày 10/4/2015, A và B đăng ký kết hôn không đúng thẩm quyền. Sau đó, bị thu hồi giấy chứng nhận đăng ký kết hôn và đăng ký lại vào ngày 01/6/2017. Quan hệ hôn nhân xác lập từ ngày nào?\na. Ngày 10/4/2015\nb. Ngày 01/6/2017",
+    "ground_truth": "a"
+  },
+  {
+    "question": "36. AB chung sống với nhau như vợ chồng, có 1 con chung. Sau đó đi đăng ký kết hôn. Quan hệ hôn nhân được xác lập từ thời điểm nào?\na. Từ lúc sống chung\nb. Từ lúc sinh con\nc. Từ lúc đăng ký kết hôn",
+    "ground_truth": "c"
+  },
+  {
+    "question": "37. Quan hệ hôn nhân có yếu tố nước ngoài là gì?\na. Ít nhất một bên tham gia là người nước ngoài, người Việt Nam định cư ở nước ngoài\nb. Các bên tham gia là công dân Việt Nam nhưng căn cứ để xác lập, thay đổi, chấm dứt quan hệ đó theo pháp luật nước ngoài, phát sinh tại nước ngoài hoặc tài sản liên quan đến quan hệ đó ở nước ngoài\nc. Cả 2 đáp án trên",
+    "ground_truth": "c"
+  },
+  {
+    "question": "38. Tảo hôn là gì?\na. Là việc lấy vợ, lấy chồng khi một bên hoặc cả hai bên chưa đủ tuổi kết hôn theo quy định\nb. Là việc lấy vợ, lấy chồng khi một bên hoặc cả hai bên bị cưỡng ép, ép buộc\nc. Là việc lấy cợ, lấy chồng khi một bên hoặc cả hai bị lừa dối.",
+    "ground_truth": "a"
+  },
+  {
+    "question": "39. Cha mẹ nuôi theo quy định của pháp luật là gì?\na. Cha mẹ nuôi là người nhận con nuôi sau khi phát hiện con không có ai chăm sóc\nb. Cha mẹ nuôi là người nhận con nuôi sau khi việc nuôi con nuôi được cơ quan nhà nước có thẩm quyền đăng ký\nc. Cha mẹ nuôi là người nhận con nuôi sau khi con nuôi về sống chung",
+    "ground_truth": "b"
+  },
+  {
+    "question": "40. Ông X và bà Y đăng ký kết hôn và sống với nhau trong căn nhà là tài sản riêng của ông X. Các hành động sau của ông X, hành động nào đúng?\na. Tự ý mua bán nhà, không hỏi ý kiến bà Y, không đảm bảo chỗ ở cho bà Y\nb. Tự ý mua bán nhà, không hỏi ý kiến bà Y, đảm bảo cho chỗ ở của bà Y\nc. Không có hành động nào đúng",
+    "ground_truth": "b"
+  },
+  {
+    "question": "41. Thời hạn giải quyết việc nhận cha, mẹ, con là bao lâu?\na. Không quá 25 ngày kể từ ngày Sở Tư pháp, Cơ quan đại diện nhận đủ hồ sơ hợp lệ và lệ phí.\nb. Không quá 15 ngày kể từ ngày Sở Tư pháp, Cơ quan đại diện nhận đủ hồ sơ hợp lệ và lệ phí.\nc. Không quá 05 ngày kể từ ngày Sở Tư pháp, Cơ quan đại diện nhận đủ hồ sơ hợp lệ và lệ phí.",
+    "ground_truth": "a"
+  },
+  {
+    "question": "42. Hồ sơ nhận cha, mẹ, con nộp ở đâu?\na. Ủy ban nhân cân cấp xã\nb. Hội đồng nhân dân cấp xã\nc. Hội liên hiệp phụ nữ Việt Nam",
+    "ground_truth": "a"
+  },
+  {
+    "question": "43. Thời kỳ hôn nhân là gì?\na. Là khoảng thời gian tồn tại quan hệ vợ chồng, được tính từ ngày bắt đầu yêu nhau cho đến lúc hết yêu\nb. Là khoảng thời gian tồn tại quan hệ vợ chồng, được tính từ ngày đăng ký kết hôn đến ngày chấm dứt hôn nhân.\nc. Cả 2 ý trên đều sai",
+    "ground_truth": "b"
+  },
+  {
+    "question": "44. Vợ chồng đã ly hôn, muốn xác nhận lại quan hệ vợ chồng lại thì phải làm sao\na. Quay lại sống chung với nhau như vợ chồng\nb. Tổ chức lại đám cưới\nc. Đi đăng ký kết hôn lại",
+    "ground_truth": "c"
+  },
+  {
+    "question": "45. Hủy kết hôn trong trường hợp biết năm sinh mà không biết tháng sinh, thì tháng sinh được xác định như thế nào?\na. Tháng một của năm sinh\nb. Tháng mười hai của năm sinh\nc. Tùy trường hợp, trước tháng sáu thì tính là tháng một, sau tháng sáu thì tính tháng mười hai",
+    "ground_truth": "a"
+  },
+  {
+    "question": "46. Nhận định nào sau đây đúng nhất?\na. Khi việc kết hôn trái pháp luật bị hủy thì hai bên kết hôn phải chấm dứt quan hệ như vợ chồng\nb. Khi việc kết hôn trái pháp luật bị hủy thì quyền, nghĩa vụ của cha, mẹ, con được giải quyết theo quy định về quyền, nghĩa vụ của cha, mẹ, con khi ly hôn\nc. Cả 2 nhận định trên đều đúng",
+    "ground_truth": "c"
+  },
+  {
+    "question": "47. Nam, nữ đủ điều kiện kết hôn không đăng ký kết hôn mà sống chung với nhau thì có làm phát sinh quyền, nghĩa vụ giữa vợ và chồng hay không?\na. Có\nb. Không\nc. Phải xét vợ chồng đã có con hay chưa",
+    "ground_truth": "b"
+  },
+  {
+    "question": "48. Nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn thì có quyền và nghĩa vụ với con hay không?\na Có\nb. Không\nc. Chỉ có nghĩa vụ, không có quyền",
+    "ground_truth": "a"
+  },
+  {
+    "question": "49. Việc lựa chọn nơi cư trú của vợ chồng do ai quyết định?\na. Vợ\nb. Chồng\nc. Theo thỏa thuận giữa vợ chồng",
+    "ground_truth": "c"
+  },
+  {
+    "question": "50. Vợ hoặc chồng mất năng lực hành vi dân sự, mà người kia có yêu cầu ly hôn, Tòa án sẽ giải quyết như thế nào?\na. Chấp nhận yêu cầu ly hôn\nb. Căn cứ vào quy định về giám hộ trong Bộ luật dân sự, Tòa án chỉ định người khác đại diện cho người bị mất năng lực hành vi dân sự để giải quyết việc ly hôn\nc. Không chấp nhận yêu cầu ly hôn",
+    "ground_truth": "b"
+  },
+  {
+    "question": "51. Vợ chồng có các nghĩa vụ chung về tài sản sau đây:\na. Nghĩa vụ phát sinh từ giao dịch do vợ chồng cùng thỏa thuận xác lập, nghĩa vụ bồi thường thiệt hại mà theo quy định của pháp luật vợ chồng cùng phải chịu trách nhiệm\nb. Nghĩa vụ do vợ hoặc chồng thực hiện nhằm đáp ứng nhu cầu thiết yếu của gia đình\nc. Cả 2 đáp án trên",
+    "ground_truth": "c"
+  }
+]
