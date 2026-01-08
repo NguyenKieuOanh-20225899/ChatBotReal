@@ -6,7 +6,7 @@ from sentence_transformers import SentenceTransformer
 
 try:
     # Trường hợp 1: Chạy từ root (python scripts/chatbot_legal.py)
-    from experiments.text_utils import tokenize_vn, preprocess_text
+    from src.utils.text_utils import tokenize_vn, preprocess_text
 except ImportError:
     # Trường hợp 2: Chạy trực tiếp (python experiments/run_E2_hybrid.py)
     # Force Python tìm trong thư mục hiện tại

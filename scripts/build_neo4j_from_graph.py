@@ -1,38 +1,85 @@
-import os
 import json
-from neo4j import GraphDatabase
+import os
 from dotenv import load_dotenv
+from neo4j import GraphDatabase
 
-# Đường dẫn
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-GRAPH_PATH = os.path.join(BASE_DIR, "data", "knowledge_graph.json")
-
-# Nạp thông tin đăng nhập
+# 1. Cấu hình kết nối
 load_dotenv()
-NEO4J_URI = "bolt://localhost:7687"
-NEO4J_USER = "neo4j"
-NEO4J_PASS = "password"  # ⚠️ nếu bạn đã đổi mật khẩu, sửa ở đây
+# Nếu chạy trên Mac/Docker, đôi khi localhost cần đổi, nhưng mặc định cứ để localhost
+URI = os.getenv("NEO4J_URI", "bolt://localhost:7687")
+USER = os.getenv("NEO4J_USERNAME", "neo4j")
+PASSWORD = os.getenv("NEO4J_PASSWORD", "password") # Password bạn set trong lệnh docker
+JSON_PATH = "data/knowledge_graph.json" # Đường dẫn file dữ liệu
 
-# Kết nối driver
-driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASS))
+def build_graph():
+    print(f"🔌 Đang kết nối tới Neo4j tại {URI}...")
+    try:
+        driver = GraphDatabase.driver(URI, auth=(USER, PASSWORD))
+        driver.verify_connectivity()
+        print("✅ Kết nối thành công!")
+    except Exception as e:
+        print(f"❌ Lỗi kết nối: {e}")
+        return
 
-# Đọc file JSON graph
-with open(GRAPH_PATH, "r", encoding="utf-8") as f:
-    data = json.load(f)
+    # Kiểm tra file dữ liệu
+    if not os.path.exists(JSON_PATH):
+        print(f"❌ Lỗi: Không tìm thấy file dữ liệu tại {JSON_PATH}")
+        return
 
-with driver.session() as sess:
-    print("🔹 Đang nạp các node...")
-    for node in data.get("nodes", []):
-        sess.run("""
-            MERGE (n:Article {id:$id})
-            SET n.topic = $topic
-        """, id=node["id"], topic=node.get("topic", ""))
+    print("📖 Đang đọc file JSON...")
+    with open(JSON_PATH, "r", encoding="utf-8") as f:
+        data = json.load(f)
 
-    print("🔹 Đang nạp các quan hệ...")
-    for edge in data.get("edges", []):  # <- Vòng lặp khai báo biến edge
-        sess.run("""
-            MATCH (a:Article {id:$from_id}), (b:Article {id:$to_id})
-            MERGE (a)-[:RELATED {relation:$relation}]->(b)
-        """, from_id=edge["from"], to_id=edge["to"], relation=edge.get("relation", "liên quan đến"))
+    nodes = data.get("nodes", [])
+    # Xử lý trường hợp key tên là "relationships" hoặc "edges"
+    edges = data.get("relationships", [])
+    if not edges and "edges" in data:
+        edges = data["edges"]
 
-print("✅ Đã nạp Knowledge Graph vào Neo4j thành công!")
+    print(f"📦 Tìm thấy {len(nodes)} node và {len(edges)} cạnh.")
+
+    with driver.session() as session:
+        # 1. Xóa dữ liệu cũ (Reset DB)
+        print("🧹 Đang xóa sạch dữ liệu cũ trong Neo4j...")
+        session.run("MATCH (n) DETACH DELETE n")
+
+        # 2. Tạo chỉ mục (Index) để tìm nhanh hơn
+        print("⚡ Đang tạo Index cho Article ID...")
+        try:
+            session.run("CREATE CONSTRAINT FOR (a:Article) REQUIRE a.id IS UNIQUE")
+        except:
+            pass # Bỏ qua nếu đã có
+
+        # 3. Nạp Nodes (Dùng Batch để nạp nhanh)
+        print("🚀 Đang nạp Nodes...")
+        query_node = """
+        UNWIND $batch AS row
+        MERGE (a:Article {id: row.id})
+        SET a.topic = row.topic,
+            a.content = row.content,
+            a.source = row.source
+        """
+        batch_size = 500
+        for i in range(0, len(nodes), batch_size):
+            batch = nodes[i:i+batch_size]
+            session.run(query_node, batch=batch)
+            print(f"   - Đã nạp {min(i+batch_size, len(nodes))}/{len(nodes)} nodes")
+
+        # 4. Nạp Edges
+        print("🔗 Đang nạp Relationships...")
+        query_edge = """
+        UNWIND $batch AS row
+        MATCH (source:Article {id: row.source})
+        MATCH (target:Article {id: row.target})
+        MERGE (source)-[r:RELATED {relation: row.relation}]->(target)
+        """
+        for i in range(0, len(edges), batch_size):
+            batch = edges[i:i+batch_size]
+            session.run(query_edge, batch=batch)
+            print(f"   - Đã nạp {min(i+batch_size, len(edges))}/{len(edges)} edges")
+
+    driver.close()
+    print("✅ HOÀN TẤT! Dữ liệu đã vào Neo4j.")
+
+if __name__ == "__main__":
+    build_graph()

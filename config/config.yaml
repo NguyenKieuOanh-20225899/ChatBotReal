@@ -1,0 +1,25 @@
+paths:
+  chunks_dir: "data/chunks"
+  kb_dir: "data/knowledge_base"
+  artifacts_dir: "data/artifacts"
+  devset_path: "experiments/devset/dev_100.jsonl"
+
+index:
+  embedding_model: "intfloat/multilingual-e5-base"
+  faiss_nlist: 100
+  faiss_nprobe: 10
+
+retrieval:
+  bm25_topk: 50
+  dense_topk: 50
+  rrf_K: 60
+  final_topk: 20
+  rrf_weights: [2.0, 1.0]
+
+reranker:
+  model_name: "BAAI/bge-reranker-v2-m3"
+  apply: true
+  keep_topk: 5
+
+thresholds:
+  answerability_min_score: 0.5
