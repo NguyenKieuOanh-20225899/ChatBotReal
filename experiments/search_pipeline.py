@@ -1,7 +1,9 @@
 import json, faiss, numpy as np, pickle
+import sys, os  # <--- Bổ sung import thiếu
 from pathlib import Path
 from collections import defaultdict
 from sentence_transformers import SentenceTransformer
+
 try:
     # Trường hợp 1: Chạy từ root (python scripts/chatbot_legal.py)
     from experiments.text_utils import tokenize_vn, preprocess_text
@@ -11,17 +13,23 @@ except ImportError:
     sys.path.append(os.path.dirname(os.path.abspath(__file__)))
     from text_utils import tokenize_vn, preprocess_text
 
-def rrf_fuse(ranked_lists, K=60, topk=10):
+def rrf_fuse(ranked_lists, weights=None, K=60, topk=10):
+    if weights is None:
+        weights = [1.0] * len(ranked_lists)
+        
     scores = defaultdict(float)
-    for lst in ranked_lists:
+    # Duyệt qua từng danh sách kèm theo trọng số của nó
+    for lst, w in zip(ranked_lists, weights):
         for rank, idx in enumerate(lst, start=1):
-            scores[idx] += 1.0 / (K + rank)
+            # Công thức RRF có trọng số: weight * (1 / (K + rank))
+            scores[idx] += w * (1.0 / (K + rank))
     
     sorted_indices = sorted(scores.items(), key=lambda x: x[1], reverse=True)
     return [i for i, _ in sorted_indices][:topk]
 
 class HybridSearcher:
     def __init__(self, cfg):
+        self.cfg = cfg  # <--- Bổ sung: Lưu config để dùng trong hàm search
         arts = Path(cfg["paths"]["artifacts_dir"])
         print("Loading artifacts...")
         self.docs = json.load(open(arts/"docs.json","r",encoding="utf-8"))
@@ -39,7 +47,7 @@ class HybridSearcher:
         self.rrf_K = cfg["retrieval"]["rrf_K"]
         self.final_topk = cfg["retrieval"]["final_topk"]
 
-    def search(self, query):
+    def search(self, query, k=None): # <--- Bổ sung: tham số k tùy chọn
         query = preprocess_text(query)
         
         # 1. BM25 Search
@@ -54,7 +62,19 @@ class HybridSearcher:
         dense_rank = I[0].tolist()
 
         # 3. Fusion
-        fused_indices = rrf_fuse([bm25_rank, dense_rank], K=self.rrf_K, topk=self.final_topk)
+        # Lấy trọng số từ config, mặc định là [1.0, 1.0] nếu không có
+        # Config yaml cần thêm dòng: rrf_weights: [2.0, 1.0] (để ưu tiên BM25)
+        weights = self.cfg["retrieval"].get("rrf_weights", [1.0, 1.0])
+        
+        # Nếu user truyền k vào thì dùng k, nếu không thì dùng default từ config
+        current_topk = k if k is not None else self.final_topk
+
+        fused_indices = rrf_fuse(
+            [bm25_rank, dense_rank], 
+            weights=weights, 
+            K=self.rrf_K, 
+            topk=current_topk
+        )
         
         results = []
         for rank, idx in enumerate(fused_indices):
