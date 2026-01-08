@@ -13,14 +13,24 @@ retrieval:
   bm25_topk: 50
   dense_topk: 50
   rrf_K: 60
-  final_topk: 20 # Tăng lên chút để Reranker có nhiều lựa chọn hơn
+  # Đây là số lượng kết quả mặc định trả về nếu không chỉ định k. 
+  # (Script run_E3_reranker.py sẽ override lên 100 để lọc kỹ hơn).
+  final_topk: 20 
+  
+  # [Quan trọng] Trọng số [BM25, Vector]. 
+  # Đặt BM25 = 2.0 để ưu tiên từ khóa chính xác (Số hiệu luật, tên điều khoản).
+  rrf_weights: [2.0, 1.0]
 
 reranker:
-  # Model này hỗ trợ Multilingual tốt hơn bản gốc ms-marco
-  model_name: "amberoad/bert-multilingual-passage-reranking-msmarco" 
-  # Hoặc dùng: "BAAI/bge-reranker-v2-m3" (Rất mạnh nhưng nặng hơn)
+  # [Khuyên dùng] Model BAAI hỗ trợ tiếng Việt và Multilingual rất mạnh (State-of-the-art)
+  # Yêu cầu cài đặt: pip install FlagEmbedding
+  model_name: "BAAI/bge-reranker-v2-m3" 
+  
+  # Model dự phòng (nhẹ hơn nhưng kém chính xác hơn với tiếng Việt):
+  # model_name: "amberoad/bert-multilingual-passage-reranking-msmarco"
+  
   apply: true
-  keep_topk: 5
+  keep_topk: 5 # Số lượng chunk cuối cùng đưa vào LLM để trả lời
 
 thresholds:
   answerability_min_score: 0.5 # Ngưỡng tin cậy
